@@ -1,0 +1,6 @@
+[
+    { "marca": "Chery", "modelos": ["Tiggo 8", "Arrizo 5", "QQ"] },
+    { "marca": "Toyota", "modelos": ["Corolla", "Hilux", "Yaris"] },
+    { "marca": "Ford", "modelos": ["Focus", "Ranger", "Mustang"] }
+  ]
+  
